@@ -1,4 +1,4 @@
 # anant-demo
 this is my first git repository.
 <br>
-author-anant dixit
+author-anant pandit
